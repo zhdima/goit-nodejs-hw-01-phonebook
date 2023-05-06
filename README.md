@@ -8,6 +8,8 @@ Screenshots:
 
 https://ibb.co/GkZ0gQk
 
+![alt text](https://ibb.co/GkZ0gQk)
+
 2. node index.js --action get --id 05olLMgyVQdWRwgKfg5J6
 
 https://ibb.co/bb3r0Hv
