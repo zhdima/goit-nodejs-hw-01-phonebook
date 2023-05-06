@@ -8,7 +8,7 @@ Screenshots:
 
 https://ibb.co/GkZ0gQk
 
-![qqqq](https://ibb.co/GkZ0gQk)
+![plot](https://ibb.co/GkZ0gQk)
 
 2. node index.js --action get --id 05olLMgyVQdWRwgKfg5J6
 
